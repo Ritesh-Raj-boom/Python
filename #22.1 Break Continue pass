@@ -1,0 +1,17 @@
+
+for i in range(6):
+
+    # if (i==3):
+    #     continue
+ #----------------------------------------------------
+#     if (i==3):
+#         break
+    # ----------------------------------------------------
+    if (i == 3):
+        pass
+
+
+    print("ritesh",i
+
+def fun():
+        pass # make function empty

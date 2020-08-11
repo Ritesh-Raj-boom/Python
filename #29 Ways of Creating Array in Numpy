@@ -1,0 +1,29 @@
+from numpy import *
+
+
+# 1
+# arr = array([1,2,3,4,5.0],int)
+#
+# print(arr.dtype)
+# print(arr)
+
+#2
+# arr = linspace(0,15,17)
+# print(arr)
+
+#3
+# arr = arange(1,15,2)
+# #for i in range(len(arr)):
+#     print(arr[i])
+
+# #4
+# arr = logspace(1,40,5)
+# print('%.2f' %arr[4])
+
+#5
+arr = zeros(5)
+print(arr)
+
+#5
+arr = ones(5,int)
+print(arr)
